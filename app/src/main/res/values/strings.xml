@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medical Calculator</string>
+    <string name="txtTitle">Convert Patient Weight</string>
+    <string name="hint">Weight of Patient</string>
+    <string name="radLbToKilo">Convert Pounds to Kilograms</string>
+    <string name="radKiloToLib">Convert Kilograms to Pounds</string>
+    <string name="btnConvert">Convert Weight</string>
+    <string name="test">THis is a really really really long line of text that will hopefully wrap around and allow me to figure out what it goign on with Kirk and Michelle.</string>
+</resources>
